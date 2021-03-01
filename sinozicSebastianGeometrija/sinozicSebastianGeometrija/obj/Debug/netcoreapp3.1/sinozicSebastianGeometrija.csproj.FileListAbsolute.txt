@@ -1,0 +1,13 @@
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.exe
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.deps.json
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.runtimeconfig.json
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.runtimeconfig.dev.json
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.dll
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\bin\Debug\netcoreapp3.1\sinozicSebastianGeometrija.pdb
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.csprojAssemblyReference.cache
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.AssemblyInfoInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.AssemblyInfo.cs
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.csproj.CoreCompileInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.dll
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.pdb
+C:\Users\Habo\source\repos\sinozicSebastianGeometrija\sinozicSebastianGeometrija\obj\Debug\netcoreapp3.1\sinozicSebastianGeometrija.genruntimeconfig.cache

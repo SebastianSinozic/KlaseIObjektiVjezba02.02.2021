@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Habo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Habo\\.nuget\\packages"
+    ]
+  }
+}
