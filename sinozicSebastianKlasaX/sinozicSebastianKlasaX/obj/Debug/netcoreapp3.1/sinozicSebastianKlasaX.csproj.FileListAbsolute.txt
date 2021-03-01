@@ -1,0 +1,4 @@
+C:\Users\Habo\source\repos\sinozicSebastianKlasaX\sinozicSebastianKlasaX\obj\Debug\netcoreapp3.1\sinozicSebastianKlasaX.csprojAssemblyReference.cache
+C:\Users\Habo\source\repos\sinozicSebastianKlasaX\sinozicSebastianKlasaX\obj\Debug\netcoreapp3.1\sinozicSebastianKlasaX.AssemblyInfoInputs.cache
+C:\Users\Habo\source\repos\sinozicSebastianKlasaX\sinozicSebastianKlasaX\obj\Debug\netcoreapp3.1\sinozicSebastianKlasaX.AssemblyInfo.cs
+C:\Users\Habo\source\repos\sinozicSebastianKlasaX\sinozicSebastianKlasaX\obj\Debug\netcoreapp3.1\sinozicSebastianKlasaX.csproj.CoreCompileInputs.cache
